@@ -1,0 +1,25 @@
+/*
+MY COLOR PALETTE
+Flax - #E9D985
+Office Green - #157F1F
+Color 3 - #HEX
+Color 4 - #HEX
+Color 5 - #HEX
+*/
+
+body{
+    background-color:#E9D985;
+}
+
+button {
+    background-color:#FFFFFF;
+    color: #157F1F
+}
+
+button:hover {
+    background-color:#E9D985;
+}
+
+h2 {
+    font-family: "Abril Fatface", serif;
+}
