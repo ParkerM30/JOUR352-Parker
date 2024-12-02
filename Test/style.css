@@ -1,0 +1,52 @@
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #2E2D2C;
+}
+
+/* Header Section */
+#topper h1 {
+    font-size: 3rem;
+    color: #E3D5C8;
+}
+
+#topper h2 {
+    font-size: 1.5rem;
+    color: #E3D5C8;
+}
+
+/* Contact Me Button */
+button {
+    background-color: #FDE6D4;
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 1.1rem;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #FBC49D;
+}
+
+/* Navigation */
+#navigation .nav-link {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.2rem;
+    padding: 10px 20px;
+    display: inline-block;
+}
+
+#navigation .nav-link:hover {
+    text-decoration: underline;
+}
+
+/* Experience, Skills, and Education Titles */
+#sections h2 {
+    border-bottom: 2px solid #E3D5C8;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
