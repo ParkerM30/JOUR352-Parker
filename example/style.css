@@ -1,0 +1,25 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+}
+
+.hero-section {
+    text-align: center;
+    padding: 50px 0;
+    background-color: #3e3e3e;
+    color: white;
+}
+
+.hero-section img {
+    transition: transform 0.1s ease-out;
+    width: 50%;  /* Initial size */
+    max-width: 800px;
+    height: auto;
+}
+
+.container {
+    padding: 20px;
+}
+
